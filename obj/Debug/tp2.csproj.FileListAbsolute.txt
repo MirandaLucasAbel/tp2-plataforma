@@ -1,0 +1,11 @@
+C:\Users\r4ndl\source\repos\tp2\tp2\bin\Debug\tp2.exe.config
+C:\Users\r4ndl\source\repos\tp2\tp2\bin\Debug\tp2.exe
+C:\Users\r4ndl\source\repos\tp2\tp2\bin\Debug\tp2.pdb
+C:\Users\r4ndl\source\repos\tp2\tp2\obj\Debug\tp2.csproj.AssemblyReference.cache
+C:\Users\r4ndl\source\repos\tp2\tp2\obj\Debug\tp2.Properties.Resources.resources
+C:\Users\r4ndl\source\repos\tp2\tp2\obj\Debug\tp2.csproj.GenerateResource.cache
+C:\Users\r4ndl\source\repos\tp2\tp2\obj\Debug\tp2.csproj.CoreCompileInputs.cache
+C:\Users\r4ndl\source\repos\tp2\tp2\obj\Debug\tp2.exe
+C:\Users\r4ndl\source\repos\tp2\tp2\obj\Debug\tp2.pdb
+C:\Users\r4ndl\source\repos\tp2\tp2\obj\Debug\tp2.FLogin.resources
+C:\Users\r4ndl\source\repos\tp2\tp2\obj\Debug\tp2.FUser.resources
